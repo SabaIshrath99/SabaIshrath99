@@ -1,63 +1,98 @@
-<h1 align="center">Hi there 👋, I'm Saba Ishrath</h1>
-<h3 align="center">AWS DevOps Engineer | Cloud Enthusiast | CI/CD Specialist</h3>
+<h1 align="center">👋 Hi, I'm Saba Ishrath</h1>
+<h3 align="center">🚀 AWS DevOps Engineer | ☁️ Cloud Enthusiast | ⚙️ CI/CD Specialist</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%F0%9F%92%BB;AWS+%7C+Azure+%7C+GCP+Certified+%E2%9A%A1;CI%2FCD+Pipeline+Specialist+%F0%9F%94%90;Kubernetes+%7C+Docker+%7C+Terraform+%F0%9F%A7%9C%F0%9F%8F%BB‍%F0%9F%92%BB" />
+</p>
 
 ---
 
-### 👩‍💻 About Me
+### 🙋‍♀️ About Me
 
-I’m Saba Ishrath (She/Her), a passionate **DevOps Engineer** with hands-on experience in designing and implementing **CI/CD pipelines**, managing **cloud infrastructure** on **AWS, Azure**, and **GCP**, and automating deployments using tools like **Terraform, Ansible, Docker, and Kubernetes**. I bring practical experience in real-time projects across domains like **Healthcare**, **Banking**, and **Finance**, ensuring performance, security, and scalability.
+- 👩‍💻 DevOps Engineer passionate about automation, scalability, and cloud-native solutions  
+- 💡 Skilled in building production-grade **CI/CD pipelines** and **cloud infrastructure**  
+- 🧪 Experienced in real-world projects in **Healthcare**, **Finance**, and **Banking**  
+- 🌱 Currently exploring **DevSecOps**, **GitOps**, and **AWS Advanced Solutions**
 
 ---
 
 ### 🛠️ Tech Stack
 
-- ☁️ **Cloud**: AWS, Azure, GCP  
-- 🐳 **Containers**: Docker, Kubernetes, Helm  
-- 🔧 **IaC & Automation**: Terraform, Ansible, Shell scripting  
-- 🔁 **CI/CD**: Jenkins, GitHub Actions, Azure DevOps  
-- 🧠 **Monitoring**: Prometheus, Grafana, CloudWatch  
-- 🐧 **OS**: Ubuntu, Amazon Linux  
-- 🔐 **Version Control**: Git, GitHub  
-- 📦 **Build Tools**: Maven, Gradle  
+#### 🚀 DevOps & CI/CD  
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge)
+
+#### ☁️ Cloud Platforms  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
+
+#### 🐳 Containers & Orchestration  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![Helm](https://img.shields.io/badge/-Helm-0F1689?logo=helm&logoColor=white&style=for-the-badge)
+
+#### 📈 Monitoring & Logging  
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge)
+
+#### 🧰 Others  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white&style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
 ---
 
-### 💼 Project Experience
+### 💼 Project Highlights
 
-#### 🏥 Health Care Domain – DevOps Pipeline Automation  
-- Built end-to-end CI/CD pipeline with **Jenkins**, **Git**, **Docker**, and **Kubernetes**  
-- Infrastructure provisioning using **Terraform**, configuration with **Ansible**  
-- Implemented monitoring with **Prometheus** and **Grafana**
+#### 🏥 **Health Care DevOps Project**
+- Automated deployment of a health care app using Jenkins, Docker & K8s  
+- Provisioned infrastructure via Terraform and configured with Ansible  
+- Monitored performance using Prometheus and Grafana
 
-#### 💳 FinanceMe – Microservices-based Banking App  
-- Deployed Java-based microservices on AWS EC2 with **Docker & Kubernetes**  
-- Set up **GitHub Webhook-triggered CI/CD pipeline**  
-- Used **AWS RDS (MySQL)** for storage and managed builds via **Maven**  
-- Real-time monitoring using **Prometheus & Grafana**
+#### 💳 **FinanceMe - Microservices Banking App**
+- Created CI/CD pipeline with GitHub → Jenkins → Docker → Kubernetes  
+- Used AWS RDS (MySQL) and hosted monitoring dashboards on Grafana  
+- Containerized multiple services and configured Ingress controller
 
-#### 🏦 Banking Domain Project  
-- Automated deployment pipeline for monolithic to microservice architecture migration  
-- **Terraform** for AWS infrastructure, **Ansible** for server provisioning  
-- Configured alerting on **Grafana** dashboards with **Prometheus exporters**
+#### 🏦 **Banking Domain Project**
+- Migrated legacy monolith to microservices  
+- Integrated full-stack monitoring & alerting via Prometheus exporters  
+- Automated infra with Terraform and config with Ansible
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SabaIshrath99&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabaIshrath99&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SabaIshrath99&show_icons=true&theme=radical" height="170px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabaIshrath99&theme=radical" height="170px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabaIshrath99&layout=compact&theme=radical" height="150px" />
 </p>
 
 ---
 
-### 🔗 Connect with Me
+### 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/saba-ishrath-a84a18218)
-- 💻 GitHub: [@SabaIshrath99](https://github.com/SabaIshrath99)
+<p align="left">
+  <a href="https://www.linkedin.com/in/saba-ishrath-a84a18218" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:sabadevops99@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/SabaIshrath99" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-> 💡 *“Automate everything. If you can't automate it, document it.”*
-
+> 💬 “Automate the boring stuff. Focus on what truly matters.”
 
