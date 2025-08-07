@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Saba Ishrath</h1>
-<h3 align="center">🚀 AWS DevOps Engineer | ☁️ Cloud Enthusiast | ⚙️ CI/CD Specialist</h3>
+<h1 align="center">👋 Hi, I'm <span style="font-weight:bold; color:#1E90FF;">Saba Ishrath</span></h1>
+<h3 align="center">🚀 <strong>AWS DevOps Engineer</strong> | ☁️ <strong>Cloud Enthusiast</strong> | ⚙️ <strong>CI/CD Specialist</strong></h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%F0%9F%92%BB;AWS+%7C+Azure+%7C+GCP+%E2%9A%A1;CI%2FCD+Pipeline+Specialist+%F0%9F%94%90;Kubernetes+%7C+Docker+%7C+Terraform+%F0%9F%A7%9C%F0%9F%8F%BB‍%F0%9F%92%BB" />
@@ -9,10 +9,10 @@
 
 ### 🙋‍♀️ About Me
 
-- 👩‍💻 DevOps Engineer passionate about automation, scalability, and cloud-native solutions  
+- 👩‍💻 A **DevOps Engineer** passionate about automation, scalability, and cloud-native solutions  
 - 💡 Skilled in building production-grade **CI/CD pipelines** and **cloud infrastructure**  
-- 🧪 Experienced in real-world projects in **Healthcare**, **Finance**, and **Banking**  
-- 🌱 Currently exploring **DevSecOps**, **GitOps**, and **AWS Advanced Solutions**
+- 🧪 Hands-on experience with projects in **Healthcare**, **Finance**, and **Banking domains**  
+- 🌱 Currently diving deeper into **DevSecOps**, **GitOps**, and **Advanced AWS Solutions**
 
 ---
 
@@ -49,22 +49,21 @@
 ### 💼 Project Highlights
 
 #### 🏥 **Health Care DevOps Project**
-- Automated deployment of a health care app using Jenkins, Docker & K8s  
-- Provisioned infrastructure via Terraform and configured with Ansible  
-- Monitored performance using Prometheus and Grafana
+- Automated deployment using **Jenkins**, **Docker**, and **Kubernetes**
+- Infrastructure provisioned via **Terraform** and configured with **Ansible**
+- Performance monitoring with **Prometheus** and **Grafana**
 
 #### 💳 **FinanceMe - Microservices Banking App**
-- Created CI/CD pipeline with GitHub → Jenkins → Docker → Kubernetes  
-- Used AWS RDS (MySQL) and hosted monitoring dashboards on Grafana  
-- Containerized multiple services and configured Ingress controller
+- CI/CD pipeline: **GitHub → Jenkins → Docker → Kubernetes**
+- Services containerized, monitored with **Grafana**, database via **AWS RDS**
+- Configured reverse proxy using **Ingress controller**
 
 #### 🏦 **Banking Domain Project**
-- Migrated legacy monolith to microservices  
-- Integrated full-stack monitoring & alerting via Prometheus exporters  
-- Automated infra with Terraform and config with Ansible
+- Legacy migration to modern **microservices**
+- Integrated full-stack monitoring with **Prometheus exporters**
+- Infrastructure-as-Code with **Terraform** & config managed via **Ansible**
 
 ---
-
 
 ### 📊 GitHub Stats
 
@@ -78,12 +77,13 @@
 </p>
 
 ---
+
 ### ✨ Fun Facts
 
-- 🌱 Currently exploring **DevSecOps**
-- 🧘‍♀️ Yoga enthusiast
-- 🌸 Believer in simple living and high thinking
-- 💬 Love helping others learn tech
+- 🌱 Learning **DevSecOps** is my current obsession  
+- 🧘‍♀️ I practice yoga to balance code and calm  
+- 🌸 Believer in *simple living, high thinking*  
+- 💬 Always ready to help others grow in tech  
 
 ---
 
@@ -103,10 +103,8 @@
 
 ---
 
-> 💬 “Automate the boring stuff. Focus on what truly matters.”
-
+> 💬 <i>“Automate the boring stuff. Focus on what truly matters.”</i>
 
 <p align="center">
-  <b>✨ Passionate. Persistent. Powerful. That's Me! ✨</b>
+  <b><i>✨ Passionate. Persistent. Powerful. That's Me! ✨</i></b>
 </p>
-
