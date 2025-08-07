@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AWS DevOps Engineer | ☁️ Cloud Enthusiast | ⚙️ CI/CD Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%F0%9F%92%BB;AWS+%7C+Azure+%7C+GCP+Certified+%E2%9A%A1;CI%2FCD+Pipeline+Specialist+%F0%9F%94%90;Kubernetes+%7C+Docker+%7C+Terraform+%F0%9F%A7%9C%F0%9F%8F%BB‍%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%F0%9F%92%BB;AWS+%7C+Azure+%7C+GCP+%E2%9A%A1;CI%2FCD+Pipeline+Specialist+%F0%9F%94%90;Kubernetes+%7C+Docker+%7C+Terraform+%F0%9F%A7%9C%F0%9F%8F%BB‍%F0%9F%92%BB" />
 </p>
 
 ---
@@ -65,6 +65,7 @@
 
 ---
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -77,6 +78,14 @@
 </p>
 
 ---
+### ✨ Fun Facts
+
+- 🌱 Currently exploring **DevSecOps**
+- 🧘‍♀️ Yoga enthusiast
+- 🌸 Believer in simple living and high thinking
+- 💬 Love helping others learn tech
+
+---
 
 ### 📫 Connect With Me
 
@@ -84,7 +93,7 @@
   <a href="https://www.linkedin.com/in/saba-ishrath-a84a18218" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="mailto:sabadevops99@gmail.com" target="_blank">
+  <a href="mailto:sabaishrath.courses@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://github.com/SabaIshrath99" target="_blank">
@@ -95,4 +104,9 @@
 ---
 
 > 💬 “Automate the boring stuff. Focus on what truly matters.”
+
+
+<p align="center">
+  <b>✨ Passionate. Persistent. Powerful. That's Me! ✨</b>
+</p>
 
