@@ -80,11 +80,10 @@
 
 ### ✨ Fun Facts
 
-- 🌱 Learning **DevSecOps** is my current obsession  
-- 🧘‍♀️ I practice yoga to balance code and calm  
-- 🌸 Believer in *simple living, high thinking*  
-- 💬 Always ready to help others grow in tech  
-
+- 🌱 Currently exploring **DevSecOps** 
+- 🧘‍♀️  Yoga enthusiast 
+- 🌸 Believer in *simple living and high thinking*  
+- 💬 Love helping others learn tech
 ---
 
 ### 📫 Connect With Me
